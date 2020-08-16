@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6", /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */
+    "module": "commonjs",
+    "sourceMap": true, /* Concatenate and emit output to single file. */
+    "outDir": "dist",
+    "strict": true, /* Enable all strict type-checking options. */
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true, /* Include modules imported with '.json' extension */
+    "skipLibCheck": true, /* Skip type checking of declaration files. */
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  }
+}
